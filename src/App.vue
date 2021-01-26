@@ -89,8 +89,8 @@ export default {
       if (!this.chartsLib) return null;
       return this.chartsLib.charts.Bar.convertOptions({
         chart: {
-          title: "Company Performance",
-          subtitle: "Sales, Expenses, and Profit: 2014-2017",
+          title: "Driver Performance",
+          subtitle: "Sales, Expenses, and Profit: 2018-2021",
         },
         bars: "horizontal", // Required for Material Bar Charts.
         hAxis: { format: "decimal" },
