@@ -5,7 +5,7 @@
       dark
       app
       mini-variant
-      class="pink accent-2"
+      class="gray accent-5"
     >
       <v-list tile>
         <v-list-item class="mb-8" router to="/">
@@ -34,7 +34,7 @@
       v-model="right"
       dark
       app
-      class="grey darken-4"
+      class="gray accent-5"
       fixed
       right
     >
